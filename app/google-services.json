@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "571215644531",
+    "project_id": "trial-1edc7",
+    "storage_bucket": "trial-1edc7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571215644531:android:1d7daed96daee694ad2706",
+        "android_client_info": {
+          "package_name": "com.ben.trial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD47ETXaWPl54IRtaWF3P7v-I3f08cCa1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
